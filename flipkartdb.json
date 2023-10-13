@@ -1,0 +1,49 @@
+{
+  "productsData": [
+    {
+      "productId": "123",
+      "title": "Iphone",
+      "brand": "Apple",
+      "price": "100000",
+      "des": "best phone",
+      "imgurl": "https://tse1.mm.bing.net/th?id=OIP.Q6FT8punGZGSklG15Di_RgHaHa&pid=Api&P=0&h=180",
+      "id": 1
+    },
+    {
+      "productId": "456",
+      "title": "Samsung Galaxy s23",
+      "brand": "Samsung",
+      "price": "1500000",
+      "des": "stylish",
+      "imgurl": "https://www.mobiledokan.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Ultra.jpg",
+      "id": 2
+    },
+    {
+      "productId": "789",
+      "title": "Realme 10pro",
+      "brand": "Realme",
+      "price": "40000",
+      "des": "best",
+      "imgurl": "https://mobileinto.com/images/largepic/large_realme-10-pro_2.jpg",
+      "id": 3
+    },
+    {
+      "productId": "101",
+      "title": "Vivo yz3",
+      "brand": "Vivo",
+      "price": "20000",
+      "des": "best",
+      "imgurl": "https://paidfreedroid.com/wp-content/uploads/2021/06/Vivo-Y73-1.jpg",
+      "id": 4
+    },
+    {
+      "productId": "102",
+      "title": "Redmi note 10",
+      "brand": "Redmi",
+      "price": "18000",
+      "des": "best",
+      "imgurl": "https://www.phoneworld.com.pk/price/wp-content/uploads/2021/08/Note-10PP-2048x2048.jpg",
+      "id": 5
+    }
+  ]
+}
